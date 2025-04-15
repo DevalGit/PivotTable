@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "department": "HR",
+    "status": "Completed",
+    "employees": 3,
+    "location": "New York"
+  },
+  {
+    "id": 2,
+    "department": "HR",
+    "status": "Completed",
+    "employees": 5,
+    "location": "New York"
+  },
+  {
+    "id": 3,
+    "department": "HR",
+    "status": "Completed",
+    "employees": 7,
+    "location": "New York"
+  },
+
+  {
+    "id": 4,
+    "department": "HR",
+    "status": "Pending",
+    "employees": 4,
+    "location": "Chicago"
+  },
+
+  {
+    "id": 5,
+    "department": "IT",
+    "status": "Completed",
+    "employees": 10,
+    "location": "San Francisco"
+  },
+  {
+    "id": 6,
+    "department": "IT",
+    "status": "Completed",
+    "employees": 2,
+    "location": "San Francisco"
+  },
+
+  {
+    "id": 7,
+    "department": "IT",
+    "status": "In Progress",
+    "employees": 1,
+    "location": "New York"
+  },
+
+  {
+    "id": 8,
+    "department": "IT",
+    "status": "Pending",
+    "employees": 6,
+    "location": "Chicago"
+  },
+
+  {
+    "id": 9,
+    "department": "Finance",
+    "status": "Completed",
+    "employees": 8,
+    "location": "San Francisco"
+  },
+  {
+    "id": 10,
+    "department": "Finance",
+    "status": "Completed",
+    "employees": 12,
+    "location": "San Francisco"
+  },
+
+  {
+    "id": 11,
+    "department": "Finance",
+    "status": "Pending",
+    "employees": 9,
+    "location": "New York"
+  },
+
+  {
+    "id": 12,
+    "department": "HR",
+    "status": "In Progress",
+    "employees": 14,
+    "location": "San Francisco"
+  },
+  {
+    "id": 13,
+    "department": "HR",
+    "status": "In Progress",
+    "employees": 6,
+    "location": "San Francisco"
+  },
+
+  {
+    "id": 14,
+    "department": "Finance",
+    "status": "Completed",
+    "employees": 1,
+    "location": "Chicago"
+  },
+    {
+      "id": 15,
+      "department": "Finance",
+      "status": "Completed",
+      "employees": 4,
+      "location": "Chicago"
+    }
+]
